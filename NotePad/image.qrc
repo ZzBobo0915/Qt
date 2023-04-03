@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="notebook">C:/Users/zhuzhibo/Pictures/qt_icon/notebook.png</file>
+    </qresource>
+</RCC>
