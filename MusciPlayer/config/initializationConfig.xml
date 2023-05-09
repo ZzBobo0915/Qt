@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--Timer == 0 所有时间-->
+<!--Timer == 1 早晨-->
+<!--Timer == 2 中午-->
+<!--Timer == 3 下午-->
+<!--Timer == 4 晚上-->
+<!--Timer == 5 凌晨-->
+<Config>
+ <title word="你好">
+  <node word="初次见面">
+   <greetings word="海内存知己,天涯若比邻" Timer="0"/>
+  </node>
+  <node word="欢迎回来">
+   <greetings word="现在过的每一天，都是我们余下生命中最年轻的一天。愿你珍惜现在，早安！" Timer="1"/>
+  </node>
+  <node word="欢迎回来">
+   <greetings word="淡淡惦念，飘荡心底如云烟；浓浓牵挂，花开花谢在人间，中午好！" Timer="2"/>
+  </node>
+  <node word="欢迎回来">
+   <greetings word="阳光照获得的当地就有我给你的祝愿，下午好！祝你天天高兴，高兴永远！" Timer="3"/>
+  </node>
+  <node word="欢迎回来">
+   <greetings word="晚上好，送上我温馨的问候，洗去你一天的疲惫，祝你明天会更好!" Timer="4"/>
+  </node>
+  <node word="欢迎回来">
+   <greetings word="凌晨好，今晚眨一下眼，代表我在惦记你，早点休息吧！晚安！" Timer="5"/>
+  </node>
+ </title>
+ <Data>
+  <Lastplay Name="D:\QTcode\ByForYou\music\Stitches.mp3" volume="45" Timer="6648"/>
+ </Data>
+</Config>
