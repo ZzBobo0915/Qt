@@ -1,0 +1,15 @@
+release/qrc_res.o
+release/basiwindow.o
+release/cachethread.o
+release/gaussianblur.o
+release/titlewindow.o
+release/dialog.o
+release/main.o
+release/mylovewindow.o
+release/thread.o
+release/moc_basiwindow.o
+release/moc_cachethread.o
+release/moc_titlewindow.o
+release/moc_dialog.o
+release/moc_mylovewindow.o
+release/moc_thread.o

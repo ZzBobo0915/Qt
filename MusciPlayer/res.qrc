@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/bofang.png</file>
+        <file>res/congfu.png</file>
+        <file>res/jiahao.png</file>
+        <file>res/jiantou.png</file>
+        <file>res/jie.png</file>
+        <file>res/kuaijin.png</file>
+        <file>res/kuaitui.png</file>
+        <file>res/liebiao.png</file>
+        <file>res/shangyige.png</file>
+        <file>res/suiji.png</file>
+        <file>res/tingzhi.png</file>
+        <file>res/xiayige.png</file>
+        <file>res/yinfu.png</file>
+        <file>res/yingliang.png</file>
+        <file>res/yingliang1.png</file>
+        <file>res/ditu.png</file>
+        <file>res/heijiao.png</file>
+        <file>res/huakua.png</file>
+        <file>Icon/48x48.png</file>
+        <file>Icon/Sys.png</file>
+        <file>Icon/96x96.jpg</file>
+        <file>Icon/48x48.jpg</file>
+        <file>Icon/Sys.jpg</file>
+        <file>MyLove/All Falls Down.png</file>
+        <file>MyLove/Because of You.png</file>
+        <file>MyLove/Bohemian Rhapsody (Live Aid).png</file>
+        <file>MyLove/Counting Stars.png</file>
+        <file>MyLove/Go Solo.png</file>
+        <file>MyLove/LoveStory.png</file>
+        <file>MyLove/Oblivion.png</file>
+        <file>MyLove/Outside.png</file>
+        <file>MyLove/Sound Of Silence.png</file>
+        <file>MyLove/Stitches.png</file>
+        <file>MyLove/Sweet Sensation.png</file>
+        <file>MyLove/This Is What You Came For.png</file>
+        <file>MyLove/Wake.png</file>
+        <file>MyLove/Walk Thru Fire.png</file>
+        <file>MyLove/We Are Young .png</file>
+        <file>MyLove/Wild.png</file>
+    </qresource>
+</RCC>
