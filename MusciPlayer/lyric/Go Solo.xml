@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Node lyric="作曲:Zwette"                                Timer = "00:00"/>
+  <Node lyric="填词:刘孟"                                  Timer = "00:02"/>
+  <Node lyric="作词:Tom Rosenthal"                         Timer = "00:04"/>
+  <Node lyric="Ooh, ooh, ooh, ooh"                         Timer = "00:20"/>
+  <Node lyric="Ooh, ooh, ooh, ooh"                         Timer = "00:28"/>
+  <Node lyric="人们都说让时间去冲淡一切"                   Timer = "00:36"/>
+  <Node lyric="可无数日子都将黯然无光"                     Timer = "00:39"/>
+  <Node lyric="直到我再次回到你的身边"                     Timer = "00:40"/>
+  <Node lyric="惊喜满怀 一往无前"                          Timer = "00:45"/>
+  <Node lyric="我向往诗和远方 我会到达"                    Timer = "00:48"/>
+  <Node lyric="不远万里 品尝你的温柔"                      Timer = "00:54"/>
+  <Node lyric="出现在你出现的每一个地方"                   Timer = "00:56"/>
+  <Node lyric="我会再次回到你的身边"                       Timer = "00:58"/>
+  <Node lyric="我们的爱绵延无期"                           Timer = "01:02"/>
+  <Node lyric="这荒谬的人生中唯一的闪耀"                   Timer = "01:04"/>
+  <Node lyric="我会回到你的身边"                           Timer = "01:07"/>
+  <Node lyric="惊喜满怀 一往无前"                          Timer = "01:11"/>
+  <Node lyric="我向往诗和远方 我会到达"                    Timer = "01:14"/>
+  <Node lyric="我一定会去 哪怕前路孤独"                    Timer = "01:20"/>
+  <Node lyric="我向往诗和远方 我会到达"                    Timer = "01:23"/>
+  <Node lyric="Ooh, ooh, ooh, ooh"                         Timer = "01:29"/>
+  <Node lyric="Ooh, ooh, ooh, ooh"                         Timer = "01:40"/>
+  <Node lyric="不远万里 品尝你的温柔"                      Timer = "02:05"/>
+  <Node lyric="出现在你出现的每一个地方"                   Timer = "02:07"/>
+  <Node lyric="我会回到你的身边"                           Timer = "02:09"/>
+  <Node lyric="我们的爱延绵无期"                           Timer = "02:13"/>
+  <Node lyric="这荒谬的人生中唯一的闪耀"                   Timer = "02:15"/>
+  <Node lyric="我会再次回到你的身边"                       Timer = "02:18"/>
+  <Node lyric="惊喜满怀 一往无前"                          Timer = "02:22"/>
+  <Node lyric="我向往诗和远方 我会到达"                    Timer = "02:25"/>
+  <Node lyric="我一定会去 哪怕前路孤独"                    Timer = "02:31"/>
+  <Node lyric="我向往诗和远方 我会到达"                    Timer = "02:34"/>
+  <Node lyric="惊喜满怀 一往无前"                          Timer = "02:40"/>
+  <Node lyric="我向往诗和远方 而你是诗和远方"              Timer = "02:43"/>
+  <Node lyric="哪怕前路孤独 我也一定会去"                  Timer = "02:49"/>
+  <Node lyric="我向往诗和远方 你就是我的诗和远方"          Timer = "02:51"/>
+</Config>

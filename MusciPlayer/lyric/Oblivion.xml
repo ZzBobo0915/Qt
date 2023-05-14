@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Node lyric="作曲:Christian Buttner"                      Timer = "00:00"/>
+  <Node lyric="填词:刘孟"                                   Timer = "00:01"/>
+  <Node lyric="作词:Christian Buttner/Lola Blanc"           Timer = "00:02"/>
+  <Node lyric="想要让你将我高高举起"                        Timer = "00:08"/>
+  <Node lyric="一处无人去往之地~"                           Timer = "00:14"/>
+  <Node lyric="带我去往遗忘之境（带我去往遗忘之境）"        Timer = "00:18"/>
+  <Node lyric="噢 快看！我想与你一同感受黑暗"               Timer = "00:24"/>
+  <Node lyric="快看 无人之境就在眼前"                       Timer = "00:33"/>
+  <Node lyric="带我去往遗忘之境"                            Timer = "01:08"/>
+  <Node lyric="一处无人去往之地"                            Timer = "01:08"/>
+  <Node lyric="带我去往遗忘之境（带我去往遗忘之境）"        Timer = "01:12"/>
+  <Node lyric="Oh (4x)"                                     Timer = "01:18"/>
+  <Node lyric="想要让你将我高高举起"                        Timer = "01:53"/>
+  <Node lyric="一处无人去往之地"                            Timer = "01:58"/>
+  <Node lyric="带我去往遗忘之境（带我去往遗忘之境）"        Timer = "02:02"/>
+  <Node lyric="噢 快看！我想与你一同感受黑暗"               Timer = "02:08"/>
+  <Node lyric="快看 一个无人之境就在眼前"                   Timer = "02:13"/>
+  <Node lyric="带我去往遗忘之境"                            Timer = "02:18"/>
+  <Node lyric="Oh (4x)"                                     Timer = "02:39"/>
+  <Node lyric="带我去往遗忘之境"                            Timer = "02:53"/>
+</Config>
+

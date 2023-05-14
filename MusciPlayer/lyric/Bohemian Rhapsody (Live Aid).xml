@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Node lyric="作曲:Queen(皇后乐队)"                        Timer = "00:00"/>
+  <Node lyric="填词:刘孟"                                   Timer = "00:02"/>
+  <Node lyric="作词:Queen(皇后乐队)"                        Timer = "00:04"/>
+  <Node lyric="妈妈啊，我刚刚杀了人"                        Timer = "00:23"/>
+  <Node lyric="枪指著他的头"                                Timer = "00:29"/>
+  <Node lyric="扣下了枪板, 现在他已经死了."                 Timer = "00:32"/>
+  <Node lyric="妈妈 , 生活才刚刚开始"                       Timer = "00:35"/>
+  <Node lyric="而然如今我却远走并抛之脑后"                  Timer = "00:41"/>
+  <Node lyric="mama, ooo,"                                  Timer = "00:48"/>
+  <Node lyric="我不想让你哭泣"                              Timer = "00:54"/>
+  <Node lyric="如果明天我没有回家"                          Timer = "00:57"/>
+  <Node lyric="你要活下去, 就当什么事情都没发生"            Timer = "01:01"/>
+  <Node lyric="太迟了 , 我的归宿要来了"                     Timer = "01:17"/>
+  <Node lyric="我的脊背开始颤抖"                            Timer = "01:23"/>
+  <Node lyric="浑身上下疼痛难忍"                            Timer = "01:26"/>
+  <Node lyric="再见, 各位，我要走了"                        Timer = "01:29"/>
+  <Node lyric="我将离你们远去，去接受显示的审判"            Timer = "01:35"/>
+  <Node lyric="mama, ooo"                                   Timer = "01:42"/>
+  <Node lyric="我也不想死去"                                Timer = "01:48"/>
+  <Node lyric="有时候我希望我从来没有来过这个世界"          Timer = "01:51"/>
+</Config>

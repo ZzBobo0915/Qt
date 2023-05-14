@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Node lyric="作曲:By For You"                             Timer = "00:01"/>
+  <Node lyric="纯音乐,请欣赏"                               Timer = "00:02"/>
+  <Node lyric="填词:刘孟"                                   Timer = "60:00"/>
+</Config>

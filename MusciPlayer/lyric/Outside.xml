@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Node lyric="作曲:Calvin Harris"                          Timer = "00:00"/>
+  <Node lyric="填词:刘孟"                                   Timer = "00:01"/>
+  <Node lyric="作词:Calvin Harris"                          Timer = "00:02"/>
+  <Node lyric="看看你做了什么"                              Timer = "00:09"/>
+  <Node lyric="不为所动 将我离弃"                           Timer = "00:13"/>
+  <Node lyric="日子久了"                                    Timer = "00:17"/>
+  <Node lyric="纸包不住火 谎言燃尽 你怎么说?"               Timer = "00:20"/>
+  <Node lyric="我忍着"                                      Timer = "00:24"/>
+  <Node lyric="过去的我 还力有未逮?"                        Timer = "00:28"/>
+  <Node lyric="要变得更坚强"                                Timer = "00:32"/>
+  <Node lyric="你的作为 驱使着我"                           Timer = "00:34"/>
+  <Node lyric="而现在 我会观视着你"                         Timer = "00:36"/>
+  <Node lyric="Oh-oh, Oh-oh,"                               Timer = "00:38"/>
+  <Node lyric="让你也瞧瞧这种感受"                          Timer = "00:42"/>
+  <Node lyric="我为局外人"                                  Timer = "00:44"/>
+  <Node lyric="Oh-oh,"                                      Timer = "00:48"/>
+  <Node lyric="感情没裂洞 现在我却成了局外人"               Timer = "00:50"/>
+  <Node lyric="Oh-oh,"                                      Timer = "00:56"/>
+  <Node lyric="也让你体验一下这种感受"                      Timer = "00:57"/>
+  <Node lyric="我为局外人 看你怎么办"                       Timer = "00:59"/>
+  <Node lyric="Oh-oh,"                                      Timer = "01:03"/>
+  <Node lyric="原本都还好好的 现在我却成了局外人"           Timer = "01:05"/>
+  <Node lyric="你没有给我任何"                              Timer = "01:24"/>
+  <Node lyric="让感情更进展的理由"                          Timer = "01:28"/>
+  <Node lyric="告诉我 要怎么做呀"                           Timer = "01:29"/>
+  <Node lyric="这爱是否还犹存?"                             Timer = "01:32"/>
+  <Node lyric="我们没得选"                                  Timer = "01:35"/>
+  <Node lyric="我要成为你力量的来源"                        Timer = "01:37"/>
+  <Node lyric="我忍着（我忍着）"                            Timer = "01:40"/>
+  <Node lyric="过去的我 还力有未逮"                         Timer = "01:43"/>
+  <Node lyric="要变得更坚强"                                Timer = "01:47"/>
+  <Node lyric="你的作为 驱使着我"                           Timer = "01:50"/>
+  <Node lyric="而现在 我会观视着你"                         Timer = "01:52"/>
+  <Node lyric="Oh-oh, Oh-oh,"                               Timer = "01:54"/>
+  <Node lyric="让你也瞧瞧这种感受"                          Timer = "01:57"/>
+  <Node lyric="我为局外人"                                  Timer = "02:00"/>
+  <Node lyric="Oh-oh,"                                      Timer = "02:02"/>
+  <Node lyric="感情没裂洞 现在我却成了局外人"               Timer = "02:05"/>
+  <Node lyric="Oh-oh,"                                      Timer = "02:09"/>
+  <Node lyric="让你瞧瞧"                                    Timer = "02:13"/>
+  <Node lyric="现在我为局外人"                              Timer = "02:14"/>
+  <Node lyric="Oh-oh,"                                      Timer = "02:17"/>
+  <Node lyric="感情没裂洞 现在我却成了局外人"               Timer = "02:20"/>
+  <Node lyric="让你也瞧瞧这种感受"                          Timer = "02:43"/>
+  <Node lyric="现在我为局外人"                              Timer = "02:45"/>
+  <Node lyric="让你也瞧瞧这种感受"                          Timer = "02:51"/>
+  <Node lyric="让你瞧瞧"                                    Timer = "02:58"/>
+  <Node lyric="现在我为局外人"                              Timer = "03:00"/>
+  <Node lyric="Oh-oh,"                                      Timer = "03:03"/>
+  <Node lyric="感情没裂洞 现在我却成了局外人"               Timer = "03:05"/>
+</Config>

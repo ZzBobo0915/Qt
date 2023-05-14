@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Node lyric="作曲:Taylor's"                                           Timer = "00:00"/>
+  <Node lyric="填词:刘孟"                                               Timer = "00:01"/>
+  <Node lyric="作词:Taylor's"                                           Timer = "00:02"/>
+  <Node lyric="当我第一次看见你的时候，我们都还年轻"                    Timer = "00:16"/>
+  <Node lyric="我闭上眼睛，一幕幕往事又在脑海中重现"                    Timer = "00:20"/>
+  <Node lyric="我站在阳台上，空气里，浓浓的，是夏天的味道"              Timer = "00:24"/>
+  <Node lyric="看见灯火，看见热闹的舞会，华丽的盛装"                    Timer = "00:32"/>
+  <Node lyric="看见你费劲地从人群中挤出来"                              Timer = "00:36"/>
+  <Node lyric="对我打招呼，至少让我知道了你的名字"                      Timer = "00:40"/>
+  <Node lyric="你“罗密欧”（对着我家的窗户）扔小石子儿"                Timer = "00:48"/>
+  <Node lyric="我爸爸气急败坏地叫你离我远一点"                          Timer = "00:52"/>
+  <Node lyric="（可是这时）我却蜷坐在楼梯间里偷偷地抹眼泪"              Timer = "00:56"/>
+  <Node lyric="在心底里祈求你不要离开 我说"                             Timer = "01:03"/>
+  <Node lyric="罗密欧，带我走吧，一起去到一个我们可以相依相偎的地方"    Timer = "01:04"/>
+  <Node lyric="我一直在等待（这一天），只有逃离才能让我们摆脱束缚"      Timer = "01:09"/>
+  <Node lyric="（到那时）我们就可以像王子和公主一样（快乐地在一起）"    Timer = "01:13"/>
+  <Node lyric="这是多么美好的爱情故事呀，亲爱的，答应我吧"              Timer = "01:17"/>
+  <Node lyric="于是，我偷偷摸摸地溜到小花园去见你"                      Timer = "01:19"/>
+  <Node lyric="我们压抑着声息，被他们发现我们就完蛋了"                  Timer = "01:26"/>
+  <Node lyric="那么，闭上你的双眼"                                      Timer = "01:30"/>
+  <Node lyric="逃避这个喧嚣的尘世，即使只有如此短暂的一刻"              Timer = "01:34"/>
+  <Node lyric="正因为你的出现"                                          Timer = "01:40"/>
+  <Node lyric="我的生命才有了如此鲜艳的光彩"                            Timer = "01:42"/>
+  <Node lyric="我爸爸气急败坏地叫你离我远一点"                          Timer = "01:46"/>
+  <Node lyric="但我又怎么能够承受没有你的痛苦"                          Timer = "01:49"/>
+  <Node lyric="于是，我无时无刻不在祈求你不要离开"                      Timer = "01:52"/>
+  <Node lyric="我说，罗密欧，带我走吧，一起去到一个我们可以相依相偎的地方" Timer = "01:57"/>
+  <Node lyric="我一直在等待（这一天），只有逃离才能让我们摆脱束缚"      Timer = "02:02"/>
+  <Node lyric="（到那时）我们就可以像王子和公主一样（快乐地在一起）"    Timer = "02:04"/>
+  <Node lyric="这是多么美好的爱情故事呀，亲爱的，答应我吧"              Timer = "02:08"/>
+  <Node lyric="罗密欧，拯救我痛苦的灵魂吧 他们总在试图左右我的思想"     Timer = "02:14"/>
+  <Node lyric="我们的爱情面对着重重的困难，却无比的忠诚坚贞"            Timer = "02:18"/>
+  <Node lyric="不要害怕，（我相信）我们终究会冲破困境"                  Timer = "02:22"/>
+  <Node lyric="这就是我们的爱情，亲爱的，请答应我"                      Timer = "02:26"/>
+  <Node lyric="我厌倦了似乎无穷无尽的等待"                              Timer = "02:45"/>
+  <Node lyric="渐渐开始怀疑你是否会如期出现在我面前"                    Timer = "02:50"/>
+  <Node lyric="曾经坚定的信念，也渐渐开始动摇"                          Timer = "02:53"/>
+  <Node lyric="当我再一次在小镇的郊外与你相会"                          Timer = "02:58"/>
+  <Node lyric="我说，罗密欧，救救我，我再也无法承受这孤独的煎熬"        Timer = "03:03"/>
+  <Node lyric="我一直在等着你，而你却沓然无踪"                          Timer = "03:08"/>
+  <Node lyric="我脑子里乱糟糟的，一片空白，又像是一团浆糊"              Timer = "03:12"/>
+  <Node lyric="梦中的他此时正虔诚地跪在我的面前，捧出一枚戒指"          Timer = "03:16"/>
+  <Node lyric="他说，嫁给我吧，茱丽叶，你再也不会是独自一人"            Timer = "03:19"/>
+  <Node lyric="我爱你，我只知道这一件事情"                              Timer = "03:24"/>
+  <Node lyric="我和你的父亲谈过了，快去挑选你洁白的嫁衣"                Timer = "03:28"/>
+  <Node lyric="这是我们的爱情故事，宝贝请答应我"                        Timer = "03:32"/>
+  <Node lyric="噢，我不禁又想起了"                                      Timer = "03:39"/>
+  <Node lyric="我第一次看见你的时候，那时，我们还年轻"                  Timer = "03:48"/>
+</Config>
