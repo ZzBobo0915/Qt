@@ -1,7 +1,7 @@
 # Qt实现的音乐播放器
 
 windows平台下基于Qt Creator 4.11.1实现的类网易云移动端播放界面的音乐播放器。
-
+使用时请取消Shadow build 好让程序能够找到资源文件。
 guthub:https://github.com/ZzBobo0915/Qt/tree/main/MusciPlayer
 
 ![音乐播放器](./image-20230514185428792.png)
